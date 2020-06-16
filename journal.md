@@ -1,25 +1,8 @@
 # Journal — Week 4
 
-> Think about how the various authors in the readings make the case for how digital history arguments are advanced.
+It seems close reading is more absent in historical argumentation in digital history; with computational approaches to literary history studies, there's a vast amount of information that is processed to arrive at an argument; it would not be realistic for most humans to make the same analysis that a computer could. This has pros and cons for the accuracy and credibility of the argument, as distant reading has some inherent limitations compared to close reading. For this reason, I believe the jobs of historians will never be fully automated; human intervention will always be required at some point for refining and reconciling information. No AI or machine learning model in the foreseeable future will have the same close reading capability as a rational, thinking human.
 
+I've taken slim to no other history classes, but from my little experience, digital history has less unproven hypotheses and conjecture. Though digital history still leaves room for interpretation and multiple different accounts, it seems less common. Further, relating to the process of historical argumentation itself, it seems to be necessary to explain why your historical argument is important before you explain why and how you came to it digitally, in order to appeal to a wider audience.
 
-
-> Think about the cycle of jumping from close to distant ‘reads’ or ‘views’ of your material, and the ways the stories emerge - or not.
-
-
-
-> What is missing from historical argumentation in digital history?
-
-
-
-> What is different about this process from what you have come to experience as historians in other classes?
-
-
-
-> How do the particular affordances of digital work change what you might know - and how you might argue it?
-
-
-
-> How much (or what) *a priori* knowledge is a requirement for digital history arguments to make sense to a reader/viewer/user?
-
-
+As for how much *a priori* knowledge is required for someone to understand digital history arguments, it truly depends on the context. There's a lot of theoretical knowledge that is needed to understand networks, databases, and hypertextualization. But in some cases, digital history is a vehicle to arrive at a largely normal historical in a faster, more efficient way. However, it certainly would be extra work to feign that certain digital technologies were not involved in the process, so any digital historian must accept that his arguments won't be as universally understandable if the process required
+leveraging the advantages of computing or the digital realm.
