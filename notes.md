@@ -79,7 +79,7 @@
   * I made a simple search for "the". During this time, the program was predictably unresponsive, but after allowing it a couple minutes to process all the files and several more minutes for it to count all the Concordance Hits (or process something else about all the files), it returned that "the" appeared at 488,253 times across all the files (case-insensitive, because I left "Case" unchecked). 
   
   ![Search results for "the"](https://i.imgur.com/HnlQMrt.jpg "Search results for \"the\"")  
-  *Search rsults for "the"*
+  *Search results for "the"*
 
   I noticed that nouns mostly apepared after "the" (not pictured), with a variety of types of words appearing before "the".
 
