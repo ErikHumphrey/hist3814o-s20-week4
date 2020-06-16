@@ -55,9 +55,17 @@
     <iframe style='width: 637px; height: 529px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=new&query=country&query=mr&mode=corpus&corpus=7c3404c9e6ab242ebf4c35831ef89267'></iframe>
     ```
 
+* The stop list worked as expected.
+
 ### Building my own corpus
 
+
+
 ### Going further
+
+* It's nice to have an offline virtual server version of Voyant. I don't have a use for installing it right now, but I definitely will in the future.
+* Previously, I hadn't considered "working with sensitive materials" as a reason for running a local server. That makes sense now!
+* I think it's great that Voyant is free and open-source software (FOSS)! I'd love to check out how it works some time.
 
 ## AntConc
 
@@ -92,15 +100,22 @@
 
 ## Topic models
 
-### Introduction
-
 ### Topic modelling with the Topic Modeling Tool ("the TMTool")
+
+* Having an "input" and "output" folder really seems to be common with machine learning and neural network-type tools, like [waifu2x](https://github.com/nagadomi/waifu2x). 
+* MALLET stands for **MA**chine **L**earning for **L**anguag**E** **T**oolkit. It's open-source software.
+* I was able to install the TMTool [using the fork of a working fork of the TMTool repository](https://github.com/shawngraham/topic-modeling-tool-1), found by checking the Hypothesis annotation on the instructions page.
+  * It's a good thing I installed Java earlier, as it seems this application might depend on it.
+* The program outputted "This could take minutes ***or days*** depending on settings and corpus size." I believe it.
+  * With 10 topics and the given output, it took 2 minutes 0 seconds to complete on my machine.
 
 ### But what does it mean?
 
-### Topic models in R
 
-### Walkthrough
+
+### A walkthrough to topic models in R
+
+
 
 ## Bonus
 
