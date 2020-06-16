@@ -59,7 +59,8 @@
 
 ### Building my own corpus
 
-
+* In the Chronicling America database, I searched for "virtual" and picked out an article that had sharp, dark, clear text that I felt would be easy to use OCR on.
+* Part way through my exploration, Chronicling America encountered an HTTP 502 Bad Gateway error every time I submitted any sort of request, so I had to stop working on it for a bit.
 
 ### Going further
 
