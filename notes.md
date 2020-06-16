@@ -25,7 +25,7 @@
 
 * I had also never heard of this one before.
 * AntConc was even easier to install than OpenRefine from Week 3; the Windows download was simply an executable (EXE). I chose to use the 64-bit version, and it ran fine without having to install any dependencies I don't yet have.
-* I followed the entire tutorial with the given corpus with no issues.
+* I followed the tutorial with the given corpus with no issues.
   * Loading the corpus folder revealed that it had a total of 3080 TXT files.
   * I made a simple search for "the". During this time, the program was predictably unresponsive, but after allowing it a couple minutes to process all the files and several more minutes for it to count all the Concordance Hits (or process something else about all the files), it returned that "the" appeared at 488,253 times across all the files (case-insensitive, because I left "Case" unchecked). 
   
@@ -40,8 +40,11 @@
   * The sort feature is handy!
   * I'm guessing a search for `wh*` would allow anything after "wh" in the word, like "while", "when", and "where", whereas `wh?` would only show words with three characters, like "why" or "who", but not "whom". This would also match the descriptions in the Wildcard Settings interface.
   * It's also worth noting that `wh?` requires a character, whereas `wh+` would also find just "wh". `wh*` can find "wh".
-  * I was right. For posterity, `wh*` had 181,960 Concordance Hits, while `wh?` had 331,460 Concordance Hits.
+  * I was right. For posterity, `wh*` had 346,960 Concordance Hits, while `wh?` had 331,460 Concordance Hits. Surprisingly close!
   * I saved the sorted outputs "wh-asterisk-sorted.txt" and "wh-questionmark-sorted.txt".
+  * The "or" operator (`|`), collocates, word lists, and keyword lists also seem like extremely useful tools for a variety of comparisons.
+
+  ![](https://i.imgur.com/eMXLntT.jpg "The Word List tool")
 * I was pleasantly surprised to see that AntConc allowed for wildcard settings to be customized.
 
 ### Going further
