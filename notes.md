@@ -61,6 +61,8 @@
 
 * In the Chronicling America database, I searched for "virtual" and picked out an article that had sharp, dark, clear text that I felt would be easy to use OCR on.
 * Part way through my exploration, Chronicling America encountered an HTTP 502 Bad Gateway error every time I submitted any sort of request, so I had to stop working on it for a bit.
+* The plan would be to OCR the text using a strategy from Week 2 (likely R Studio), organizing the output into a spreadsheet, then importing it into Vagrant.
+* I'll be sure to do this later. For now, I checked out some classmates' approaches to the problem to get an idea of the process and the expected results.
 
 ### Going further
 
