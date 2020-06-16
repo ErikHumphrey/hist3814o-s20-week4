@@ -28,11 +28,34 @@
 
 ### Introduction
 
+* The results from Voyant loaded way more quickly than the results from Antconc! 
+* The results are sharable! That's really useful for showing your work and sharing your findings without making people go through all the same steps you did.
+* Here's the URL to my corpus: https://voyant-tools.org/?corpus=7c3404c9e6ab242ebf4c35831ef89267
+  * The ID on its own: `7c3404c9e6ab242ebf4c35831ef89267`
+* Once you've pressed "Reveal", it looks like there's little to customize that's saved. There are lots of different ways of looking through the corpus, the previews, and visualizations, but it appears all the customization needs to be done on the home page before hitting "Reveal".
+
+![](https://i.imgur.com/C8sFlHU.jpg "The Voyant results after pressing \"Reveal\"")  
+*The Voyant results after pressing "Reveal"*
+
 ### Explore the newspaper corpus
 
-> corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject. *(Source: Google, `define corpus`)*
+* Though I could guess the etymology from the "corp" part, I sort of forgot what "corpus" meant. I looked it up: 
+  > corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject. *(Source: Google, `define corpus`)*
+* Clicking on a term made the "trends" section on the right show the relative frequency of the term across all the documents in the corpus.
+  * Double-clicking the term also opened up a small window with a miniature distribution, collocates, correlations, and phrases in which the term appeared. This also had a slider to adjust the number of items.
+  * Checking the box beside another term allowed for comparison of multiple terms on the same trend chart by overlaying their individual charts.
 
-### Build your own corpus
+![](https://i.imgur.com/6rfpnqn.jpg "Key words in the context of \"mr\" in Voyant")  
+*Key words in the context of "mr" in Voyant*
+
+* Being able to easily export the output of any of the many tools in a variety of ways is a welcome feature.
+  * Here's the HTML snippet of the "Links" panel (a collocate graph) to try out later. I would imagine it would look exactly how it looks in Voyant.
+  
+    ```html
+    <iframe style='width: 637px; height: 529px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=new&query=country&query=mr&mode=corpus&corpus=7c3404c9e6ab242ebf4c35831ef89267'></iframe>
+    ```
+
+### Building my own corpus
 
 ### Going further
 
