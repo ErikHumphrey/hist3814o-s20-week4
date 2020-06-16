@@ -138,6 +138,7 @@
   *Topic proportions per decade bar plot, generated with R*
 
 * Understandably, changing the top X terms per topic had no effect on the plot generated.
+* In conclusion, it appears that topic models can surface from patterns sometimes, but not always.
 
 ## Bonus
 
