@@ -66,7 +66,18 @@
 
 ## Bonus
 
-* The base images in this one remind me of the cryptic images used in [wargames / "Capture The Flag" cyber-security challenges](https://en.wikipedia.org/wiki/Wargame_(hacking)). I've done a few iterations of a beginner-level event at Carleton University, [Hack All The Things](https://h4tt.ca/).
-
 ### Image analysis
 
+* The images on this page remind me of the cryptic images used in [wargames / "Capture The Flag" cyber-security challenges](https://en.wikipedia.org/wiki/Wargame_(hacking)). I've done a few iterations of a beginner-level event at Carleton University, [Hack All The Things](https://h4tt.ca/).
+* The images in this ZIP are old magazine covers from around the First World War and the Second World War. The art style is certainly reminiscent of propaganda poster art around the time.
+* I deleted the files mentioned and corrected some file names. I also made many file names more descriptive of the image, to match the others.
+* Imj proved to be yet another extremely useful tool, which I'll be sure to use again in the future.
+
+![](https://i.imgur.com/n2dwb6S.png "A custom 'barcode' visualization")  
+*A custom "barcode" visualization*
+
+![](https://i.imgur.com/wUmIJJ4.png "A custom 'montage' visualization")  
+*A custom "montage" visualization*
+
+![](https://i.imgur.com/fwshffQ.png "A custom 'plot' visualization (x-axis: saturation, y-axis: brightness)")  
+*A custom "plot" visualization" (x-axis: saturation, y-axis: brightness)*
